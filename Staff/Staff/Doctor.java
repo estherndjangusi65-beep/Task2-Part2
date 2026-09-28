@@ -8,7 +8,7 @@ public class Doctor {
     }
 
     public void updateMedical(MedicalRecord m){
-        m.updateMedicalInfo("Malaria");
+        m.updateMedicalInfo("Malaria and Fever");
 
     }
 
