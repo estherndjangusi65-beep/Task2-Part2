@@ -1,7 +1,7 @@
 package Hospital;
 
 public class Patient {
-    private String Name = "Mave";
+    private String Name = "Mave Esther";
     private String appointment = "30/05/2026";
 
     public String getName() {
