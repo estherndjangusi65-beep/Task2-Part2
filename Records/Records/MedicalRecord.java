@@ -1,7 +1,7 @@
 package Records;
 
 public class MedicalRecord {
-    private String MedicalInfo ="Malaria";
+    private String MedicalInfo ="Malaria and Fever";
 
     public String getMedicalInfo() {
         return MedicalInfo;
