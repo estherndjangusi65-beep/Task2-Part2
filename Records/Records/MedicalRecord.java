@@ -12,6 +12,6 @@ public class MedicalRecord {
     }
 
     public static void Showmethod(){
-        System.out.println("Static Method");
+        System.out.println("Medical Record Method");
     }
 }
